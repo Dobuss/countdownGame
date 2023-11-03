@@ -1,4 +1,4 @@
-# countdownGame
+# Countdown Game
 
 This project is a game build with React as part of Udemy course React - The Complete Guide 2023 (incl. React Router & Redux).
 
